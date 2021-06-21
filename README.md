@@ -1,5 +1,7 @@
 ## API-HW
 
+Tools: API interactions, Python, Pandas, Monte Carlo Simulations
+
 # Overview:
 - Portfolio management tool that allows users to assess their monthly personal finances, and 
 also forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
