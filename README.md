@@ -1,8 +1,8 @@
-## Financial Planning Algorithm 
+# Financial Planning Algorithm 
 
 -	Tools / languages: JupyterLab, Python, Pandas, Alpaca API, Monte Carlo simulations
 
-# Overview:
+## Overview:
 -	Financial planning algorithm that allows users to assess monthly personal finances, visualize savings composed of stocks, bonds, and crypto currencies; allows users to run Monte Carlo simulations to forecast retirement plan performance at 5, 10, and 30 years.
 -	Fetched real time data for Bitcoin, Ethereum, SPY ETF, and AGG bonds through an API and created variables to identify the amount of each cryptocurrency or financial security in U.S. dollars the user has at the moment 
 -	Fetched historical data for cryptocurrencies and financial securities via the Alpaca API to run Monte Carlo simulations and forecast portfolio performance; identified 95% confidence intervals for portfolio performance based on different investment amounts and time periods of 5, 10, and 30 years. 
