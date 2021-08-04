@@ -1,4 +1,4 @@
-# Retirement Plan Forecast
+# Retirement Plan Forecaster
 -	Tools / languages: JupyterLab, Python, Pandas, Alpaca API, Monte Carlo simulations
 
 ## Overview:
