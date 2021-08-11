@@ -11,14 +11,14 @@
 <img width="387" alt="Screen Shot 2021-08-04 at 12 57 21 PM" src="https://user-images.githubusercontent.com/83780964/128222972-ab38b985-ff38-46fb-bd2c-fc033c69f7c8.png">
 
 ## 5 Year Forecast:
-- There is a 95% chance that an initial investment of $30000 in the portfolio over the next 5 years will end within in the range of $25257.03 and $82917.14
+- There is a 95% chance that an initial investment of $30,000 in the portfolio over the next 5 years will end within in the range of $25,257.03 and $82,917.14
 
 ## 10 Year Simulation 
 <img width="524" alt="Screen Shot 2021-08-04 at 12 58 16 PM" src="https://user-images.githubusercontent.com/83780964/128223090-0bbf7930-d7de-4d3b-8576-76a82e516edd.png">
 <img width="386" alt="Screen Shot 2021-08-04 at 12 58 32 PM" src="https://user-images.githubusercontent.com/83780964/128223096-63cd5e9b-fdca-40df-98b3-36b519503d9c.png">
 
 ## 10 Year Forecast:
-- There is a 95% chance that an initial investment of $60000 in the portfolio over the next 10 years will end within in the range of $73989.76 and $332472.54
+- There is a 95% chance that an initial investment of $60,000 in the portfolio over the next 10 years will end within in the range of $73,989.76 and $332,472.54
 
 ## 30 Year Simulation 
 
@@ -26,5 +26,5 @@
 <img width="404" alt="Screen Shot 2021-08-04 at 12 56 47 PM" src="https://user-images.githubusercontent.com/83780964/128223162-3eb9b6b3-583e-4706-b51b-1c0139c9b635.png">
 
 ## 30 Year Forecast:
-- There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $78907.12 and $1242512.88
-- There is a 95% chance that an initial investment of $30000 in the portfolio over the next 30 years will end within in the range of $118360.68 and $1863769.32
+- There is a 95% chance that an initial investment of $20,000 in the portfolio over the next 30 years will end within in the range of $78,907.12 and $1,242,512.88
+- There is a 95% chance that an initial investment of $30,000 in the portfolio over the next 30 years will end within in the range of $118360.68 and $1,863,769.32
