@@ -1,10 +1,5 @@
 # Retirement Plan Forecaster
--	Tools / languages: JupyterLab, Python, Pandas, Alpaca API, Monte Carlo simulations
-
-## Overview:
--	Financial planning algorithm that allows users to assess monthly personal finances, visualize savings composed of stocks, bonds, and crypto currencies; allows users to run Monte Carlo simulations to forecast retirement plan performance at 5, 10, and 30 years.
--	Fetched real time data for Bitcoin, Ethereum, SPY ETF, and AGG bonds through an API and created variables to identify the amount of each cryptocurrency or financial security in U.S. dollars the user has at the moment 
--	Fetched historical data for cryptocurrencies and financial securities via the Alpaca API to run Monte Carlo simulations and forecast portfolio performance; identified 95% confidence intervals for portfolio performance based on different investment amounts and time periods of 5, 10, and 30 years. 
+The algorithm is a financial planning tool that allows investors to monitor their current portfolio and forecast portfolio performance at 5, 10, and 30 years using Monte Carlo Simulations. The first part of the algorithm utilized the alternative free crypto API and the Alpaca Markets API to fetch real time data for Bitcoin, Ethereum, SPY ETF, and AGG bonds. By storing the amount of each currency or security the user has as a variable, we are able to multiply the number by the real time data fetched through the APIs and determine the state of the users current funds. Users may also forecast portfolio performance with Monte Carlo simulations using the MCforecastTools Python library. The Monte Carlo simulations are derived from the min, max, and standard deviation of historical data. Historical data is extracted using the Alpaca Markets API. -	Tools / languages: JupyterLab, Python, Pandas, Alpaca API, MCforcastTools.
 
 ## 5 Year Simulation 
 <img width="520" alt="Screen Shot 2021-08-04 at 12 57 08 PM" src="https://user-images.githubusercontent.com/83780964/128222968-60ed5f76-b703-424a-b3b4-9d3e8f37a656.png">
