@@ -1,4 +1,4 @@
-# Retirement in Monte Carlo
+# Retirement in Monaco
 The algorithm is a financial planning tool that allows investors to monitor their current portfolio and forecast portfolio performance at 5, 10, and 30 years using Monte Carlo Simulations. The first part of the algorithm utilized the alternative free crypto API and the Alpaca Markets API to fetch real time data for Bitcoin, Ethereum, SPY ETF, and AGG bonds. By storing the amount of each currency or security the user has as a variable, we are able to multiply the number by the real time data fetched through the APIs and determine the state of the users current funds. Users may also forecast portfolio performance with Monte Carlo simulations using the MCforecastTools Python library. The Monte Carlo simulations are derived from the min, max, and standard deviation of historical data. Historical data is extracted using the Alpaca Markets API. -	Tools / languages: JupyterLab, Python, Pandas, Alpaca API, MCforcastTools.
 
 ## 5 Year Simulation 
