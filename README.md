@@ -1,4 +1,4 @@
-# Retirement in Monaco
+# Python Monte Carlo Simulation
 This algorithm can be used to forecast portfolio performance at 5, 10, and 30 years using Monte Carlo Simulations. The first part of the algorithm fetches real time data for Bitcoin, Ethereum, SPY ETF, and AGG bonds using the alternative free crypto API and the Alpaca Markets API. By storing the amount of each currency or security as a variable, we are able to multiply the defined quantities by the real time prices fetched through the API and determine the state of current funds. The algorithm then forecasts portfolio performance using the MCforecastTools Python library which can derive Monte Carlo simulations from the min, max, and standard deviation of historical data.
 
 Tools / languages: JupyterLab, Python, Pandas, Alpaca API, MCforcastTools.
